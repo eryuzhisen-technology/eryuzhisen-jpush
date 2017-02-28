@@ -4,7 +4,7 @@
 
   	<groupId>eryuzhisen</groupId>
   	<artifactId>eryuzhisen-jpush</artifactId>
-  	<version>3.2.11</version>
+  	<version>1.0.0</version>
   	<packaging>jar</packaging>
 
 	<repositories>
@@ -37,19 +37,8 @@
   		</snapshotRepository>
 	</distributionManagement>
 
-	<licenses>
-		<license>
-			<name>The Apache Software License, Version 2.0</name>
-			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-			<distribution>repo</distribution>
-		</license>
-	</licenses>
-
   <properties>
-    <github.global.server>github</github.global.server>
 	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-	<jdkVersion>1.6</jdkVersion>
-	<jdkVersion.test>1.6</jdkVersion.test>
   </properties>
 
   <dependencies>
